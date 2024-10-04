@@ -1,0 +1,41 @@
+body {
+  background: blue;
+}
+
+body h1 {
+  font-family: system-ui;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-weigth: bold;
+  margin: 15px;
+}
+
+body p {
+  font-family: system-ui;
+  color: orange;
+  text-align: center;
+  font-size: 25px;
+  font-weigth: bold;
+  margin-top: 50px;
+  padding: 10px;
+  border: 2px dotted white;
+  border-radius: 10px;
+  height: 40px;
+}
+
+body footer {
+  font-family: system-ui;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  font-size: 15px;
+  font-weigth: bold;
+  margin-top: 50px;
+  padding: 10px;
+  border: 0px dotted white;
+}
+
+div {
+  background-color: red;
+}
